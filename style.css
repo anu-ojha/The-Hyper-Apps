@@ -1,0 +1,32 @@
+footer{
+    background-color: rgb(206, 208, 213);
+    
+    color: white;
+}
+.downcontainer{
+    display: flex;
+    padding-left: 30px;
+    color: black;
+    
+}
+.nav-item{
+    padding-right: 20px;
+}
+
+.row1{
+    padding: 50px 40px;
+    
+}
+
+.foot{
+    padding: 30px;
+}
+
+.bi{
+    padding: 10px;
+    /* size-adjust: 20px; */
+    
+}
+.form{
+    margin: 5% 35%;
+}
